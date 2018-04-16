@@ -2,7 +2,7 @@ import java.util.regex.Pattern;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 
-public class SCLab2{
+public class SCLab6{
   public static void main(String[] args){
     Scanner sc=new Scanner(System.in);
     System.out.println("Enter text:");
